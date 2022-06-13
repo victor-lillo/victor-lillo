@@ -19,6 +19,7 @@ I'm Víctor, a **self-taught** FullStack web developer from Madrid.
 ### Technologies
 [![React](https://img.shields.io/badge/React-0000?style=flat&labelColor=1C1C1C&logo=react&logoColor=61DBFB&color=61DBFB)](https://github.com/fentosv)
 [![NextJS](https://img.shields.io/badge/NextJS-0000?style=flat&labelColor=1C1C1C&logo=nextdotjs&logoColor=black&color=black)](https://github.com/fentosv)
+[![VueJS](https://img.shields.io/badge/Vue.js-0000?style=flat&labelColor=1C1C1C&logo=vue.js&logoColor=4FC08D&color=4FC08D)](https://github.com/fentosv)
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-0000?style=flat&labelColor=1C1C1C&logo=kubernetes&logoColor=326ce5&color=326ce5)](https://github.com/fentosv)
 [![Webpack](https://img.shields.io/badge/Webpack-0000?style=flat&labelColor=1C1C1C&logo=webpack&logoColor=1c78c0&color=1c78c0)](https://github.com/fentosv)
