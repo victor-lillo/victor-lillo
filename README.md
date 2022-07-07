@@ -37,6 +37,12 @@ I'm Víctor, a **self-taught** FullStack web developer from Madrid.
 
 <br />
 
+## 📦 My npm packages
+
+[classnames-creator](https://www.npmjs.com/package/classnames-creator): Concats CSS classnames, based on conditions. Really usefull with React and NextJs.
+
+<br />
+
 ## 🖥️ Workspace Setup
 
 [![Windows](https://img.shields.io/badge/Windows_10-0000?style=flat&labelColor=1C1C1C&logo=windows&logoColor=f65314&color=f65314)](https://github.com/fentosv)
