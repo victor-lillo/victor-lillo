@@ -40,6 +40,8 @@ I'm Víctor, a **self-taught** FullStack web developer from Madrid.
 ## 📦 My npm packages
 
 [classnames-creator](https://www.npmjs.com/package/classnames-creator): Concats CSS classnames, based on conditions. Really usefull with React and NextJs.
+[react-confirm-toast](https://www.npmjs.com/package/react-confirm-toast): Creates a toast notification which allows you to confirm or reject the execution of a function.
+
 
 <br />
 
