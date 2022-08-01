@@ -4,6 +4,8 @@
 
 I'm Víctor, a **self-taught** FullStack web developer from Madrid.
 
+I love to contribute to **open source**. [Here](#-my-npm-packages) you can check the libraries I've published. Also, I have few templates and public repos.
+
 <br />
 
 ## 🛠️ Skills
