@@ -45,6 +45,8 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 
 [react-confirm-toast](https://www.npmjs.com/package/react-confirm-toast): Creates a toast notification which allows you to confirm or reject the execution of a function.
 
+[react-elegant-switch](https://www.npmjs.com/package/react-elegant-switch): Light and very customizable React toggle switch component.
+
 
 <br />
 
