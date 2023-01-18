@@ -19,6 +19,8 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 [![CSS3](https://img.shields.io/badge/CSS3-0000?style=flat&labelColor=1C1C1C&logo=css3&logoColor=2965f1&color=2965f1)](https://github.com/fentosv)
 [![SASS](https://img.shields.io/badge/SASS-0000?style=flat&labelColor=1C1C1C&logo=sass&logoColor=CD6799&color=CD6799)](https://github.com/fentosv)
 
+[![Rust](https://img.shields.io/badge/Rust-0000?style=flat&labelColor=1C1C1C&logo=rust&logoColor=000000&color=000000)](https://github.com/fentosv)
+
 ### Technologies
 
 [![React](https://img.shields.io/badge/React-0000?style=flat&labelColor=1C1C1C&logo=react&logoColor=61DBFB&color=61DBFB)](https://github.com/fentosv)
