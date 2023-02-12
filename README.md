@@ -68,6 +68,12 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 
 <br />
 
+## ⏰ Recent activity
+
+<!--START_SECTION:activity-->
+
+<br />
+
 ## 📊 Stats
 
 <div align="center">
