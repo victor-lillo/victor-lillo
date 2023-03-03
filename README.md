@@ -26,6 +26,7 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 [![React](https://img.shields.io/badge/React-0000?style=flat&labelColor=1C1C1C&logo=react&logoColor=61DBFB&color=61DBFB)](https://github.com/fentosv)
 [![NextJS](https://img.shields.io/badge/NextJS-0000?style=flat&labelColor=1C1C1C&logo=nextdotjs&logoColor=black&color=black)](https://github.com/fentosv)
 [![Astro](https://img.shields.io/badge/Astro-0000?style=flat&labelColor=1C1C1C&logo=astro&logoColor=ff5e00&color=ff5e00)](https://github.com/fentosv)
+[![Svelte](https://img.shields.io/badge/Svelte-0000?style=flat&labelColor=1C1C1C&logo=svelte&logoColor=FF3E00&color=FF3E00)](https://github.com/fentosv)
 [![Lit](https://img.shields.io/badge/Lit-0000?style=flat&labelColor=1C1C1C&logo=lit&logoColor=324fff&color=324fff)](https://github.com/fentosv)
 [![VueJS](https://img.shields.io/badge/Vue.js-0000?style=flat&labelColor=1C1C1C&logo=vue.js&logoColor=4FC08D&color=4FC08D)](https://github.com/fentosv)
 
