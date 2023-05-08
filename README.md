@@ -45,7 +45,7 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-0000?style=flat&labelColor=1C1C1C&logo=mongodb&logoColor=3FA037&color=3FA037)](https://github.com/fentosv)
 
-### Cross Platform Developement
+### Cross Platform Development
 
 [![Electron](https://img.shields.io/badge/Electron-0000?style=flat&labelColor=1C1C1C&logo=electron&logoColor=9feaf9&color=9feaf9)](https://github.com/fentosv)
 
