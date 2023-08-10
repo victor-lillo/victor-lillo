@@ -59,6 +59,8 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 
 [react-elegant-switch](https://www.npmjs.com/package/react-elegant-switch): Light and very customizable React toggle switch component.
 
+[sleep-dots](https://www.npmjs.com/package/sleep-dots): Light Node.js library to sleep with log with dynamic dots.
+
 <br />
 
 ## 🖥️ Workspace Setup
