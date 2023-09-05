@@ -54,13 +54,13 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 
 ## 📦 My npm packages
 
-[classnames-creator](https://www.npmjs.com/package/classnames-creator): Concats CSS classnames, based on conditions. Really usefull with React and NextJs.
+- [classnames-creator](https://www.npmjs.com/package/classnames-creator): Concats CSS classnames, based on conditions. Really usefull with React and NextJs.
 
-[react-confirm-toast](https://www.npmjs.com/package/react-confirm-toast): Creates a toast notification which allows you to confirm or reject the execution of a function.
+- [react-confirm-toast](https://www.npmjs.com/package/react-confirm-toast): Creates a toast notification which allows you to confirm or reject the execution of a function.
 
-[react-elegant-switch](https://www.npmjs.com/package/react-elegant-switch): Light and very customizable React toggle switch component.
+- [react-elegant-switch](https://www.npmjs.com/package/react-elegant-switch): Light and very customizable React toggle switch component.
 
-[sleep-dots](https://www.npmjs.com/package/sleep-dots): Light Node.js library to sleep with log with dynamic dots.
+- [sleep-dots](https://www.npmjs.com/package/sleep-dots): Light Node.js library to sleep with log with dynamic dots.
 
 <br />
 
