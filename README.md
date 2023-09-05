@@ -31,10 +31,11 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 [![VueJS](https://img.shields.io/badge/Vue.js-0000?style=flat&labelColor=1C1C1C&logo=vue.js&logoColor=4FC08D&color=4FC08D)](https://github.com/fentosv)
 
 [![Vite](https://img.shields.io/badge/Vite-0000?style=flat&labelColor=1C1C1C&logo=vite&logoColor=646CFF&color=646CFF)](https://github.com/fentosv)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-0000?style=flat&labelColor=1C1C1C&logo=kubernetes&logoColor=326ce5&color=326ce5)](https://github.com/fentosv)
 [![Webpack](https://img.shields.io/badge/Webpack-0000?style=flat&labelColor=1C1C1C&logo=webpack&logoColor=1c78c0&color=1c78c0)](https://github.com/fentosv)
 
 [![Storybook](https://img.shields.io/badge/Storybook-0000?style=flat&labelColor=1C1C1C&logo=storybook&logoColor=FF4785&color=FF4785)](https://github.com/fentosv)
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-0000?style=flat&labelColor=1C1C1C&logo=kubernetes&logoColor=326ce5&color=326ce5)](https://github.com/fentosv)
 
 [![Vercel](https://img.shields.io/badge/Vercel-0000?style=flat&labelColor=1C1C1C&logo=vercel&logoColor=white&color=black)](https://github.com/fentosv)
 [![Git](https://img.shields.io/badge/Git-0000?style=flat&labelColor=1C1C1C&logo=git&logoColor=F1502F&color=F1502F)](https://github.com/fentosv)
