@@ -14,11 +14,11 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 
 [![Javascript](https://img.shields.io/badge/Javascript-0000?style=flat&labelColor=1C1C1C&logo=javascript&logoColor=f7df1e&color=f7df1e)](https://github.com/fentosv)
 [![Typescript](https://img.shields.io/badge/Typescript-0000?style=flat&labelColor=1C1C1C&logo=typescript&logoColor=007ACC&color=007ACC)](https://github.com/fentosv)
-[![NodeJS](https://img.shields.io/badge/NodeJS-0000?style=flat&labelColor=1C1C1C&logo=nodedotjs&logoColor=3C873A&color=3C873A)](https://github.com/fentosv)
 [![HTML5](https://img.shields.io/badge/HTML5-0000?style=flat&labelColor=1C1C1C&logo=html5&logoColor=ec6231&color=ec6231)](https://github.com/fentosv)
 [![CSS3](https://img.shields.io/badge/CSS3-0000?style=flat&labelColor=1C1C1C&logo=css3&logoColor=2965f1&color=2965f1)](https://github.com/fentosv)
 [![SASS](https://img.shields.io/badge/SASS-0000?style=flat&labelColor=1C1C1C&logo=sass&logoColor=CD6799&color=CD6799)](https://github.com/fentosv)
 
+[![NodeJS](https://img.shields.io/badge/NodeJS-0000?style=flat&labelColor=1C1C1C&logo=nodedotjs&logoColor=3C873A&color=3C873A)](https://github.com/fentosv)
 [![Rust](https://img.shields.io/badge/Rust-0000?style=flat&labelColor=1C1C1C&logo=rust&logoColor=000000&color=000000)](https://github.com/fentosv)
 
 ### Technologies
@@ -35,10 +35,10 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 
 [![Storybook](https://img.shields.io/badge/Storybook-0000?style=flat&labelColor=1C1C1C&logo=storybook&logoColor=FF4785&color=FF4785)](https://github.com/fentosv)
 
+[![Git](https://img.shields.io/badge/Git-0000?style=flat&labelColor=1C1C1C&logo=git&logoColor=F1502F&color=F1502F)](https://github.com/fentosv)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-0000?style=flat&labelColor=1C1C1C&logo=kubernetes&logoColor=326ce5&color=326ce5)](https://github.com/fentosv)
 
 [![Vercel](https://img.shields.io/badge/Vercel-0000?style=flat&labelColor=1C1C1C&logo=vercel&logoColor=white&color=black)](https://github.com/fentosv)
-[![Git](https://img.shields.io/badge/Git-0000?style=flat&labelColor=1C1C1C&logo=git&logoColor=F1502F&color=F1502F)](https://github.com/fentosv)
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-0000?style=flat&labelColor=1C1C1C&logo=googlecloud&logoColor=1DA462&color=1DA462)](https://github.com/fentosv)
 [![Google Chrome Extensions](https://img.shields.io/badge/Google_Chrome_Extensions-0000?style=flat&labelColor=1C1C1C&logo=googlechrome&logoColor=DD5144&color=DD5144)](https://github.com/fentosv)
 
