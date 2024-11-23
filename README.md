@@ -66,14 +66,6 @@ I love to contribute to **open source**. [Here](#-my-npm-packages) you can check
 
 <br />
 
-## 🖥️ Workspace Setup
-
-[![Windows](https://img.shields.io/badge/Windows_10-0000?style=flat&labelColor=1C1C1C&logo=windows&logoColor=f65314&color=f65314)](https://github.com/victor-lillo)
-[![Ryzen](https://img.shields.io/badge/Ryzen_7_3800X-0000?style=flat&labelColor=1C1C1C&logo=amd&logoColor=white&color=white)](https://github.com/victor-lillo)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0000?style=flat&labelColor=1C1C1C&logo=visualstudiocode&logoColor=007ACC&color=007ACC)](https://github.com/victor-lillo)
-
-<br />
-
 ## 📊 Stats
 
 <div align="center">
